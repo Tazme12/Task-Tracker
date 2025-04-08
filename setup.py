@@ -3,7 +3,7 @@ setup(
     name="Task-Tracker", version="1.0.0", packages=find_packages (), install_requires=[],
     entry_points={
     "console_scripts": [
-    "task-tracker=Task-Tracker.backend:main"
+    "Task-Tracker=Task-Tracker.backend:main"
     ]
     },
     author="Cameron Thornton",
