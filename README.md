@@ -22,3 +22,21 @@ If the user inputs 4 in the main menu then the user will be able to update the s
 If the user enters 5 within the main menu function then the user will be able to input a number between 1-4, depending on whether they want to view everything, all complete tasks, all not complete tasks or all in-progress tasks.
 
 # 🚀 Installation
+1. Clone the repository:<br>
+```bash
+git clone https://github.com/Tazme12/Task-Tracker
+cd Task-Tracker
+```
+2. Install the package:<br>
+```bash
+pip install .
+```
+## 📌 Usage
+
+Run the CLI app with:<br>
+```bash
+task-tracker
+```
+
+## RoadMap.sh Project:
+https://roadmap.sh/projects/task-tracker
